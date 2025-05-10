@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **wamuyu-w/wamuyu-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Wamuyu Wachira!(she/her)
-
-🎓 I'm a Student at the Catholic University of Eastern Africa
+## 👋 Hello There!
+# I'm Wamuyu Wachira!(she/her) and I am currently a student at the Catholic University of Eastern Africa
 
 💻 Passionate about Digital Forensics, Threat Intelligence and Software Development
 
