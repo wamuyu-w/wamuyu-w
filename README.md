@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hello There!
-# I'm Wamuyu Wachira!(she/her) and I am currently a student at the Catholic University of Eastern Africa
+# I'm Wamuyu Wachira!(she/her) 
+
+✨I am currently a student at the Catholic University of Eastern Africa
 
 💻 Passionate about Digital Forensics, Threat Intelligence and Software Development
 
