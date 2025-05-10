@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Wamuyu Wachira!(she/her)
 
 🎓 I'm a Student at the Catholic University of Eastern Africa
+
 💻 Passionate about Digital Forensics, Threat Intelligence and Software Development
+
 🌍 Based in Nairobi, Kenya
 
 
