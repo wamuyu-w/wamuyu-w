@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Wamuyu Wachira!(she/her)
+
+🎓 I'm a Student at the Catholic University of Eastern Africa
+💻 Passionate about Digital Forensics, Threat Intelligence and Software Development
+🌍 Based in Nairobi, Kenya
+
+
+## 🚀 Current Goals
+- 🔐 Deepen expertise in DFIR and Threat Intelligence  
+- 🛠️ Build hands-on projects in interested domains
+- 📘 Study and contribute to open-source security tools
+
+---
+
+
+## 📫 Let's Connect!
+[![LinkedIn](https://www.linkedin.com/in/wamuyu-w-293062240/)
+
+
